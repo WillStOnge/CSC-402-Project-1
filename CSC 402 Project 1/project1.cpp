@@ -2,7 +2,7 @@
 File Name: project1.cpp
 Author: Will St. Onge
 Course: CSC 402 
-Date: 
+Date: 12/28/19
 */
 
 #include <iostream>
